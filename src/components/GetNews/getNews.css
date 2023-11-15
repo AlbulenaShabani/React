@@ -1,0 +1,39 @@
+
+.signupbox {
+    background-color: #F0EFE9;
+    border: 1px solid #F0EFE9;
+    width: 1920px;
+    height: 270px;
+    display: flex;
+    justify-content: center;
+  }
+  .signupbox .signup-minibox {
+    border: 1px solid #F0EFE9;
+    width: 1270px;
+    height: 60px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .signupbox .signup-minibox .GNS-text h2 {
+    font-size: 45px;
+  }
+  .signupbox .signup-minibox .search-button input {
+    border: none;
+    outline: none;
+    padding: 15px 70px;
+    border-radius: 30px;
+  }
+  .signupbox .signup-minibox .search-button a {
+    padding: 15px 45px;
+    background-color: #F0D082;
+    border-radius: 30px;
+    margin-left: 20px;
+    text-decoration: none;
+    color: #0E1021;
+  }
+  .signupbox .signup-minibox .search-button a:hover {
+    background-color: black;
+    color: white;
+  }

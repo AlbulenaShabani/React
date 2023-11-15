@@ -1,0 +1,71 @@
+
+footer .footer-box {
+    border: 1px solid black;
+    width: 1920px;
+    background-color: #0E1021;
+  }
+  footer .footer-box .footer-logotype {
+    display: flex;
+    margin-left: 300px;
+    margin-top: 113px;
+    gap: 106px;
+  }
+  footer .footer-box .footer-logotype .footer-critotext {
+    width: 309px;
+    height: 208px;
+  }
+  footer .footer-box .footer-logotype .footer-critotext p {
+    margin-top: 30px;
+    font-size: 16px;
+    color: #B6B6BC;
+  }
+  footer .footer-box .footer-logotype .four-boxestext {
+    display: flex;
+    gap: 115px;
+    margin-top: 18px;
+  }
+  footer .footer-box .footer-logotype .four-boxestext .fourboxes {
+    width: 156px;
+    height: 213px;
+  
+  }
+  footer .footer-box .footer-logotype .four-boxestext .fourboxes h5 {
+    font-size: 22px;
+    color: white;
+    margin-bottom: 47px;
+    
+  }
+  footer .footer-box .footer-logotype .four-boxestext .fourboxes .footer-button div {
+    margin-top: 10px;
+  }
+  footer .footer-box .footer-logotype .four-boxestext .fourboxes .footer-button a {
+    font-size: 16px;
+    color: #B6B6BC;
+    text-decoration: none;
+  }
+  footer .footer-box .footer-line {
+    color: gray;
+    margin-top: 88px;
+  }
+  footer .footer-box .footer-end {
+    width: 1323px;
+    height: 79px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 300px;
+    margin-top: 30px;
+  }
+  footer .footer-box .footer-end p {
+    color: #ABACB2;
+  }
+  footer .footer-box .footer-end .socialmedia-end {
+    color: white;
+  }
+  footer .footer-box .footer-end .socialmedia-end a {
+    margin-left: 25px;
+    color: white;
+    text-decoration: none;
+  }
+  footer .footer-box .footer-end .socialmedia-end a:hover {
+    color: #FF00A9;
+  }

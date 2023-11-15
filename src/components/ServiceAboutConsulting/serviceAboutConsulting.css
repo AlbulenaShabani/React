@@ -1,0 +1,69 @@
+.service-consulting {
+    margin-top: 120px;
+    height: 870px;
+    width: 1920px;
+    background-color: #F0EFE9;
+  }
+  .service-consulting .service-box {
+    width: 1320px;
+    height: 631px;
+    margin-top: 120px;
+    margin-left: 300px;
+  }
+  .service-consulting .service-box .titel-box {
+    padding-top: 120px;
+  }
+  .service-consulting .service-box .titel-box p {
+    color: red;
+  }
+  .service-consulting .service-box .titel-box h2 {
+    font-size: 45px;
+  }
+  .service-consulting .service-box .service-fourbox {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+  }
+  .service-consulting .service-box .service-fourbox h5 {
+    margin-left: 30px;
+    margin-top: 50px;
+    font-size: 22px;
+  }
+  .service-consulting .service-box .service-fourbox p {
+    font-size: 16px;
+    margin-left: 30px;
+  }
+  .service-consulting .service-box .service-fourbox .box {
+    height: 333px;
+    width: 308px;
+    background-color: white;
+  }
+  .service-consulting .service-box .service-fourbox .box h2 {
+    margin-left: 30px;
+  }
+  .service-consulting .service-box .service-fourbox #servicesbox-yellow {
+    background-color: #F9D783;
+    color: #0E1021;
+  }
+  .service-consulting .service-box .service-fourbox a {
+    font-size: 56px;
+    margin-left: 220px;
+    color: black;
+  }
+  .service-consulting .service-box .browse {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  .service-consulting .service-box .browse a {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    padding: 15px 50px;
+    border-radius: 30px;
+    text-decoration: none;
+  }
+  .service-consulting .service-box .browse a:hover {
+    background-color: black;
+    color: white;
+  }

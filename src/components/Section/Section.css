@@ -1,0 +1,48 @@
+section {
+    background-color: #F0EFE9;
+    height: 780px;
+  }
+  section a {
+    text-decoration: none;
+    color: black;
+  }
+  section .sectionbox {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  section .sectionbox .thepicture {
+    margin-right: 150px;
+    margin-top: 50px;
+  }
+  section .sectionbox .texttitel {
+    margin-left: 300px;
+    margin-top: 150px;
+    margin-bottom: 200px;
+  }
+  section .sectionbox .texttitel h1 {
+    font-size: 86px;
+  }
+  section .sectionbox .button {
+    margin-top: 50px;
+  }
+  section .sectionbox .button .getconsulting {
+    background-color: #F9D783;
+    border: #F9D783;
+    padding: 15px 50px;
+    border-radius: 30px;
+  }
+  section .sectionbox .button .getconsulting:hover {
+    background-color: black;
+    color: #F9D783;
+  }
+  section .sectionbox .button .learnmore {
+    margin-left: 15px;
+    border-radius: 30px;
+    border: 1px solid black;
+    padding: 15px 40px;
+  }
+  section .sectionbox .button .learnmore:hover {
+    background-color: black;
+    color: white;
+  }

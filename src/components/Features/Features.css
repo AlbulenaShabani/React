@@ -1,0 +1,53 @@
+.advicebigbox {
+    display: flex;
+    border: 1px solid rgb(158, 156, 156);
+    width: 1520px;
+    height: 600px;
+    margin-top: 80px;
+    margin-left: 200px;
+    align-items: baseline;
+    gap: 140px;
+  }
+  .advicebigbox .advicebox-left {
+    padding-top: 90px;
+    padding-left: 100px;
+    width: 635px;
+    height: 400px;
+  }
+  .advicebigbox .advicebox-left h2 {
+    font-size: 45px;
+  }
+  .advicebigbox .advicebox-left p {
+    color: red;
+  }
+  .advicebigbox .advicebox-left .advicelearnmore {
+    width: 635px;
+    padding-top: 70px;
+  }
+  .advicebigbox .advicebox-left .advicelearnmore a {
+    background-color: #F9D783;
+    border: #F9D783;
+    padding: 15px 200px;
+    border-radius: 30px;
+    color: #0E1021;
+    text-decoration: none;
+  }
+  .advicebigbox .advicebox-left .advicelearnmore a:hover {
+    background-color: black;
+    color: #F9D783;
+  }
+  .advicebigbox .advicebox-right {
+    display: flex;
+    gap: 140px;
+  }
+  .advicebigbox .advicebox-right i {
+    padding-bottom: 40px;
+    font-size: 30px;
+  }
+  .advicebigbox .advicebox-right .box {
+    height: 230px;
+    width: 230px;
+  }
+  .advicebigbox .advicebox-right .box p {
+    padding-top: 15px;
+  }

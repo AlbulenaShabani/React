@@ -1,0 +1,64 @@
+header{
+
+background-color: blue;
+height: 120px;
+
+
+}
+header {
+  background-color: #F0EFE9;
+  height: 120px;
+}
+header a {
+  text-decoration: none;
+  color: black;
+}
+header .Container {
+  display: flex;
+  padding-left: 318px;
+  padding-top: 20px;
+  gap: 75px;
+}
+header .topbox {
+  display: flex;
+  align-items: baseline;
+  border-bottom: 1px solid #DAD9D3;
+}
+header .topbox .contact {
+  display: flex;
+  gap: 56px;
+  padding-right: 353px;
+  border-right: 1px #DAD9D3;
+  margin-right: 30px;
+}
+header .topbox .socialmedia {
+  display: flex;
+  gap: 20px;
+}
+header .topbox .socialmedia a:hover {
+  color: #FF00A9;
+}
+header .bottonbox {
+  display: flex;
+  align-items: baseline;
+}
+header .bottonbox .menu {
+  display: flex;
+  margin-top: 20px;
+  gap: 35px;
+  padding-right: 740px;
+}
+header .bottonbox .menu a:hover {
+  font-weight: 500;
+  text-decoration: underline;
+}
+header .bottonbox .loginbutton {
+  background-color: #F9D783;
+  border: #F9D783;
+  padding: 10px 20px;
+  border-radius: 30px;
+}
+header .bottonbox .loginbutton:hover {
+  background-color: black;
+  color: #F9D783;
+}

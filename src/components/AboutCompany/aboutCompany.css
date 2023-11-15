@@ -1,0 +1,73 @@
+.consultingbox {
+    height: 615px;
+    width: 1320px;
+    margin-top: 120px;
+    margin-left: 300px;
+    display: flex;
+    gap: 200px;
+  }
+  .consultingbox .consulting-left {
+    position: relative;
+    margin-left: 56px;
+  }
+  .consultingbox .blue-box {
+    position: absolute;
+    width: 368px;
+    height: 180px;
+    background-color: #BEEBFF;
+    margin-top: 393px;
+  }
+  .consultingbox .blue-box h5 {
+    margin-top: 40px;
+    margin-left: 25px;
+    font-size: 20px;
+  }
+  .consultingbox .blue-box h5 span {
+    color: red;
+    font-size: 16px;
+  }
+  .consultingbox .blue-box p {
+    margin-left: 25px;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .consultingbox .consulting-right {
+    height: 590px;
+    width: 532px;
+  }
+  .consultingbox .consulting-right #ab {
+    color: red;
+  }
+  .consultingbox .consulting-right h2 {
+    font-size: 45px;
+  }
+  .consultingbox .consulting-right .one {
+    margin-top: 45px;
+  }
+  .consultingbox .consulting-right .two {
+    margin-top: 50px;
+  }
+  .consultingbox .consulting-right .consulting-buttons {
+    margin-top: 115px;
+  }
+  .consultingbox .consulting-right .consulting-buttons .Learn-More {
+    background-color: black;
+    color: white;
+    -webkit-text-decoration: #0E1021;
+            text-decoration: #0E1021;
+    border-radius: 30px;
+    border: 1px solid black;
+    padding: 15px 40px;
+  }
+  .consultingbox .consulting-right .consulting-buttons .Learn-More:hover {
+    background-color: white;
+    color: black;
+  }
+  .consultingbox .consulting-right .consulting-buttons .intro-videos {
+    font-size: 35px;
+    margin-left: 40px;
+    background-color: white;
+    padding: 15px 20px;
+    color: #0E1021;
+    text-decoration: none;
+  }

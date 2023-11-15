@@ -1,0 +1,136 @@
+
+.yellow-bigbox {
+    border: 1px solid #F0D082;
+    width: 1920px;
+    height: 1964px;
+    background-color: #F9D783;
+  }
+  .yellow-bigbox .team-box {
+    width: 1320px;
+    height: 765px;
+    margin-left: 300px;
+    margin-top: 120px;
+  }
+  .yellow-bigbox .team-box .ETM-box p {
+    color: red;
+    font-size: 18px;
+  }
+  .yellow-bigbox .team-box .ETM-box h2 {
+    font-size: 45px;
+  }
+  .yellow-bigbox .team-box .Button-text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .yellow-bigbox .team-box .Button-text a {
+    border: 1px solid black;
+    padding: 15px 40px;
+    border-radius: 35px;
+    text-decoration: none;
+    color: #0E1021;
+  }
+  .yellow-bigbox .team-box .Button-text a:hover {
+    background-color: black;
+    color: white;
+  }
+  .yellow-bigbox .team-box .Button-text a i {
+    margin-left: 20px;
+  }
+  .yellow-bigbox .team-box .members-photo {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 95px;
+  }
+  .yellow-bigbox .team-box .members-photo .photo {
+    width: 308px;
+    height: 507px;
+  }
+  .yellow-bigbox .team-box .members-photo .photo h4 {
+    margin-top: 30px;
+  }
+  .yellow-bigbox .team-box .switch a {
+    color: #0E1021;
+    text-decoration: none;
+  }
+  .yellow-bigbox .team-box .switch i {
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: #0E1021;
+  }
+  .yellow-bigbox .Testimonial-box {
+    border: 1px solid white;
+    width: 1520px;
+    height: 887px;
+    background-color: white;
+    margin-top: 70px;
+    margin-left: 200px;
+  }
+  .yellow-bigbox .Testimonial-box .Testimonial-text {
+    margin-top: 120px;
+  }
+  .yellow-bigbox .Testimonial-box .Testimonial-text h2 {
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+  }
+  .yellow-bigbox .Testimonial-box .Testimonial-text p {
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-size: 18px;
+  }
+  .yellow-bigbox .Testimonial-box .three-boxes {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+  }
+  .yellow-bigbox .Testimonial-box .three-boxes .box-border {
+    width: 420px;
+    height: 402px;
+  }
+  .yellow-bigbox .Testimonial-box .three-boxes .box-border .star {
+    margin-left: 30px;
+    color: #F94D1C;
+    margin-top: 50px;
+  }
+  .yellow-bigbox .Testimonial-box .three-boxes .box-border .star-text {
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 18px;
+  }
+  .yellow-bigbox .Testimonial-box .three-boxes .box-border .three-photos {
+    display: flex;
+    gap: 20px;
+    margin-left: 30px;
+    margin-top: 40px;
+  }
+  .yellow-bigbox .Testimonial-box .three-boxes .box-border .three-photos .names h4 {
+    font-size: 22px;
+  }
+  .yellow-bigbox .Testimonial-box .three-boxes .box-border .three-photos .names p {
+    color: #F94D1C;
+    font-size: 18px;
+  }
+  .yellow-bigbox .button-allreviews {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  .yellow-bigbox .button-allreviews a {
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 15px 45px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+  }
+  .yellow-bigbox .button-allreviews a:hover {
+    background-color: white;
+    color: black;
+  }
+  .yellow-bigbox .button-allreviews a i {
+    margin-left: 10px;
+  }

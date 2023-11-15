@@ -1,0 +1,167 @@
+
+
+
+section {
+    width: 1920px;
+    height: 1592px;
+    background-color: white;
+    margin-bottom: 621px;
+  }
+  section a {
+    color: black;
+    text-decoration: none;
+  }
+  section .big-box {
+    border: 1px solid #F0EFE9;
+    width: 1920px;
+    height: 300px;
+    background-color: #F0EFE9;
+  }
+  section .big-box .HCL-box {
+    border: 1px solid #F0EFE9;
+    width: 366px;
+    height: 102px;
+    margin: auto;
+    margin-top: 105px;
+  }
+  section .big-box .HCL-box .HC-box {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+  }
+  section .big-box .HCL-box .HC-box a {
+    font-size: 16px;
+  }
+  section .big-box .HCL-box .HC-box a:hover {
+    font-weight: 500;
+  }
+  section .big-box .HCL-box .Lets-connectbox {
+    display: flex;
+    justify-content: center;
+  }
+  section .big-box .HCL-box .Lets-connectbox h1 {
+    font-size: 56px;
+  }
+  section .contactbox {
+    border: 1px solid white;
+    width: 1320px;
+    height: 206px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 300px;
+    margin-top: 123px;
+    
+  }
+  section .contactbox .contact-information {
+    border: 1px solid #D1D1D1;
+    width: 420px;
+    height: 206px;
+    display: flex;
+    justify-content: center;
+  
+  }
+  section .contactbox .contact-information .box-text {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 52px;
+   
+    
+  }
+  section .contactbox .contact-information .box-text .cu-symbol i {
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 100px;
+    color: white;
+    background-color: black;
+    font-size: 25px;
+   
+
+  }
+  section .contactbox .contact-information .box-text cu-text h6 {
+    font-size: 22px;
+    
+
+  }
+  section .contactbox .contact-information .box-text cu-text p {
+    font-size: 18px;
+    color: rgb(155, 154, 154);
+  
+    
+  }
+  section .send-messagebox {
+    border: 1px solid #F0EFE9;
+    width: 1320px;
+    height: 766px;
+    display: flex;
+    margin: auto;
+    margin-top: 80px;
+    background-color: #F0EFE9;
+   
+   
+ 
+    
+  }
+  section .send-messagebox .send-box .send-messagetitle {
+    margin-left: 440px;
+    margin-top: 124px;
+  }
+  section .send-messagebox .send-box .send-messagetitle h2 {
+    font-size: 45px;
+  }
+  section .send-messagebox .send-box .searchbox {
+    margin-top: 25px;
+    margin-left: 150px;
+  }
+  section .send-messagebox .send-box .searchbox input {
+    outline: none;
+    border: none;
+    border-radius: 25px;
+  }
+  section .send-messagebox .send-box .searchbox .write-text {
+    margin-top: 15px;
+  }
+  section .send-messagebox .send-box .searchbox .write-text input {
+    padding: 15px 420px;
+  }
+  section .send-messagebox .send-box .searchbox .write-textbig {
+    margin-top: 15px;
+  }
+  section .send-messagebox .send-box .searchbox .write-textbig input {
+    padding: 50px 420px;
+  }
+  section .send-messagebox .send-box .sendmessage-button {
+    margin-top: 42px;
+    margin-right: 150px;
+    
+  }
+  section .send-messagebox .send-box .sendmessage-button button {
+    background-color: #F9D783;
+    padding: 15px 450px;
+    border-radius: 25px;
+    border-color: #F9D783;
+   
+    
+    
+  }
+  section .send-messagebox .send-box .sendmessage-button button:hover {
+    background-color: black;
+    color: white;
+    border-color: black;
+  }
+  section .map-box {
+    border: 1px solid white;
+    width: 1920px;
+    height: 620px;
+    margin-top: 120px;
+    
+    
+}
+.error {
+ 
+  color: rgb(230, 115, 115);
+
+}
+
+ 
+  
